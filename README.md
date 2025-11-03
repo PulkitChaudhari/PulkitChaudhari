@@ -1,7 +1,7 @@
 
 ### Hello World 👋 It's Pulkit!
 
-- 🔭 Currently Senior Analyst @ Deutsche Bank.
+- 🔭 Analyst @ Goldman Sachs, Ex-Analyst @ Deutsche Bank.
 - 📌 Ex - Full Stack Developer Intern @ CPiombo and Ex - Data Science Intern @ Axis Bank.
 - 👨‍💻 Specialist @ Codeforces
 - 📫 How to reach me:
